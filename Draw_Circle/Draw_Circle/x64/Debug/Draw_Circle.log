@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': 매크로 재정의
+D:\202127050 이아현\2학년 2학기\3D프로그래밍\과제\Draw_Circle\packages\glfw.3.3.8\build\native\include\GLFW\glfw3.h(123): message : 'APIENTRY'의 이전 정의를 참조하십시오.
+D:\202127050 이아현\2학년 2학기\3D프로그래밍\과제\Draw_Circle\Draw_Circle\Main.cpp(53,48): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\202127050 이아현\2학년 2학기\3D프로그래밍\과제\Draw_Circle\Draw_Circle\Main.cpp(53,29): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Draw_Circle.vcxproj -> D:\202127050 이아현\2학년 2학기\3D프로그래밍\과제\Draw_Circle\x64\Debug\Draw_Circle.exe
